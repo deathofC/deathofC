@@ -1,15 +1,5 @@
-- 👋 Hi, I’m @deathofC
-- 👀 I’m interested in C++, C
-- 🌱 I’m currently learning NOTHING
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me i do not know might i say
-
-
-
-
-
-
-
-
-
-
+- 👋 Hi, I’m Adriano
+- 👀 I’m interested in C++, C, Pentest, Python
+- 🌱 I’m currently learning Cloud based hacking
+- 💞️ I’m looking to collaborate on New tools
+- 📫 How to reach me chessycameleon@protonmail.com
